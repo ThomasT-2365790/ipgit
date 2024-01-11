@@ -1,6 +1,0 @@
-print("Python rocks")
-print("Another line")
-print("Derde lijn")
-print("Vierde lijn")
-print("Vijfde lijn")
-print("Lijn in main")
